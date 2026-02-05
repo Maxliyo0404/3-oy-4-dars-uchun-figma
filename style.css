@@ -713,6 +713,9 @@
   }
 }
 @media (max-width: 670px) {
+  .showcase {
+    padding: 20px 0;
+  }
   .showcase .show_left h2 {
     width: 100%;
     font-size: 30px;
